@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:bisque;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Salsa', cursive;
+  text-shadow: 5px 0 maroon;
+  font-size: 8rem;
+  color:brown;
+}
+
+p {
+  font-size: 2rem;
+  color: brown;
+  font-family: 'Salsa', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: brown;
+  text-align: center;
+  font-family: 'Salsa', cursive;
+
+}
